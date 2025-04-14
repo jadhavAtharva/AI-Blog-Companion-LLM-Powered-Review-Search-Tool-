@@ -54,3 +54,8 @@ Generate: Click the "Generate Blog" button to produce your blog post in real-tim
 Review Search Tool
 Input Query: Type your query regarding place reviews (for example, "Find reviews mentioning excellent service at Pizza Place").
 Search: Click the "Search" button to view semantic search results.
+
+<img width="1582" alt="Screenshot 2025-04-14 at 12 06 45 PM" src="https://github.com/user-attachments/assets/5f16b905-93ac-4850-998e-2672a162d422" />
+
+<img width="1582" alt="Screenshot 2025-04-14 at 12 07 55 PM" src="https://github.com/user-attachments/assets/946bf327-ca21-410b-a93f-19ef409bf12a" />
+
